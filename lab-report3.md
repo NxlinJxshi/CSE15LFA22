@@ -33,6 +33,12 @@ The -X command (*less -X find-results.txt*). This would mainly be used for small
 <img width="676" alt="Screen Shot 2022-10-31 at 11 18 31 AM" src="https://user-images.githubusercontent.com/103763994/199080714-47fb36c2-29c1-4607-a357-37e9f09e5647.png">
 This command filters the repository for all the files that have a size above or below N megabytes. 
 
+## Example 8: Using the -type command 
+The -type command (*type ./technical -type f*) returns anything with type x. I used -type f so it returned all the files in the technical directory as all the contents of the directory are regular files. 
+
+
+
+
 
 
 

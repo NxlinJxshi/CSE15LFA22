@@ -4,6 +4,7 @@
 <img width="560" alt="Screen Shot 2022-10-31 at 10 18 59 AM" src="https://user-images.githubusercontent.com/103763994/199069242-046fcd85-cf4f-45ce-846c-4d0f751ba921.png">
 This shows the usage of grep -string which basically prints all the lines that contains ".txt", then using "wc" on that to find how many lines and words the output contains. 
 
+
 ## Example 2: Using the grep -i command line
 <img width="621" alt="Screen Shot 2022-10-31 at 10 29 15 AM" src="https://user-images.githubusercontent.com/103763994/199071277-95234eec-6d08-4e29-a2b5-1f2129df81e8.png">
 This shows the usage of grep -i "string" which prints the line in the file which contains the inputted string regardless of case sensitivty as seen in the picture above.
